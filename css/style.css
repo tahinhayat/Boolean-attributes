@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.boolean{
+	color: white;
+	background-color: rgb(165, 165, 165);
+	width: 53%;
+	height: 430px;
+	padding: 80px;
+	margin: auto;
+	border: 2px dotted rgb(129, 129, 129);
+}
+h1{
+	text-align: center;
+	font-size: 40px;
+}
+.box{
+	overflow: hidde;
+	margin: 50px 0;
+}
+.bl{
+	width: 20%;
+	float: left;
+	padding: 70px;
+}
+.left{
+	background-color: tomato;	
+}
+.middle{
+	background-color: slateblue;
+	padding: 61px;
+}
+.right{
+	background-color: teal;
+}
+.practice{
+	background-color: rgb(240, 199, 199);
+	width: 85%;
+	margin: 80px auto;
+	padding: 50px;
+}
+.one{
+	text-align: center;
+	margin: 50px auto;
+}
+video{
+	width: 35%;
+	height: 10%;
+}
+h2{
+	font-size: 30px;
+	margin: 30px 0;
+}
+h3{
+	margin: 40px 0;
+	text-align: center;
+}
